@@ -1,1 +1,1 @@
-# a demonstrition of delphi process
+# a demonstration of delphi process
